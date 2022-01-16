@@ -1,6 +1,6 @@
 {
 	"name": "peerly",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "Build peer to peer application with Node.js",
 	"main": "./lib/src/index.js",
 	"scripts": {
